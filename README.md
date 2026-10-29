@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  <a href="https://github.com/tinhatinh">
+  <a href="https://github.com/ngocanh2103iot-cloud">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Student+at+PTIT; Electronics Engineering Student ; Embedded Systems!" alt="Typing SVG" />
   </a>
 </p>
